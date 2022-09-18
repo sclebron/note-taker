@@ -8,9 +8,7 @@
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    // "start": "node ./db/app.js"
-    "start": "cross-env NODE_ENV=production node ./db/app.js",
-    "heroku-postbuild": "npm run build"
+    "start": "node ./db/app.js"
   },
   "author": "",
   "license": "ISC",
