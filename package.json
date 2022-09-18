@@ -8,7 +8,7 @@
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node ./db/app.js"
+    "start": "node /db/app.js"
   },
   "author": "",
   "license": "ISC",
